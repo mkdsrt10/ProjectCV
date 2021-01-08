@@ -1,0 +1,12 @@
+{
+    "make": "Canon",
+    "model": "Canon PowerShot TX1",
+    "width": 2048,
+    "height": 1247,
+    "projection_type": "perspective",
+    "focal_ratio": 2.5383155230596177,
+    "orientation": 1,
+    "capture_time": 1223199792.0,
+    "gps": {},
+    "camera": "v2 canon powershot tx1 2048 1247 perspective 2.5383"
+}

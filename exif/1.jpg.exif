@@ -1,0 +1,12 @@
+{
+    "make": "unknown",
+    "model": "unknown",
+    "width": 6000,
+    "height": 4000,
+    "projection_type": "perspective",
+    "focal_ratio": 0,
+    "orientation": 1,
+    "capture_time": 0.0,
+    "gps": {},
+    "camera": "v2 unknown unknown 6000 4000 perspective 0"
+}
