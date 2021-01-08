@@ -1,0 +1,12 @@
+{
+    "make": "NIKON CORPORATION",
+    "model": "35.0 mm f/1.8",
+    "width": 4544,
+    "height": 2412,
+    "projection_type": "perspective",
+    "focal_ratio": 1.4444444444444444,
+    "orientation": 1,
+    "capture_time": 1417186205.2,
+    "gps": {},
+    "camera": "v2 nikon corporation 35.0 mm f/1.8 4544 2412 perspective 1.4444"
+}

@@ -1,0 +1,202 @@
+{
+    "v2 unknown unknown 1600 900 perspective 0": {
+        "projection_type": "perspective",
+        "width": 1600,
+        "height": 900,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 4096 2022 perspective 0": {
+        "projection_type": "perspective",
+        "width": 4096,
+        "height": 2022,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 1080 1253 perspective 0": {
+        "projection_type": "perspective",
+        "width": 1080,
+        "height": 1253,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 1080 1350 perspective 0": {
+        "projection_type": "perspective",
+        "width": 1080,
+        "height": 1350,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 2048 1365 perspective 0": {
+        "projection_type": "perspective",
+        "width": 2048,
+        "height": 1365,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 4096 2374 perspective 0": {
+        "projection_type": "perspective",
+        "width": 4096,
+        "height": 2374,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 3071 1644 perspective 0": {
+        "projection_type": "perspective",
+        "width": 3071,
+        "height": 1644,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 6000 4000 perspective 0": {
+        "projection_type": "perspective",
+        "width": 6000,
+        "height": 4000,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 nikon corporation nikon d7100 6189 3877 perspective 0": {
+        "projection_type": "perspective",
+        "width": 6189,
+        "height": 3877,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 2047 1249 perspective 0": {
+        "projection_type": "perspective",
+        "width": 2047,
+        "height": 1249,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 nikon corporation 35.0 mm f/1.8 4544 2412 perspective 1.4444": {
+        "projection_type": "perspective",
+        "width": 4544,
+        "height": 2412,
+        "focal": 1.4444444444444444,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 panasonic dmc-lx7 1199 800 perspective 0.6666": {
+        "projection_type": "perspective",
+        "width": 1199,
+        "height": 800,
+        "focal": 0.6666666666666666,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 1080 1351 perspective 0": {
+        "projection_type": "perspective",
+        "width": 1080,
+        "height": 1351,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 1506 1004 perspective 0": {
+        "projection_type": "perspective",
+        "width": 1506,
+        "height": 1004,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 canon ef100-400mm f/4.5-5.6l is usm 5346 3471 perspective 4.4825": {
+        "projection_type": "perspective",
+        "width": 5346,
+        "height": 3471,
+        "focal": 4.482535378631654,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 2048 1360 perspective 0": {
+        "projection_type": "perspective",
+        "width": 2048,
+        "height": 1360,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 1024 683 perspective 0": {
+        "projection_type": "perspective",
+        "width": 1024,
+        "height": 683,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 1536 2048 perspective 0": {
+        "projection_type": "perspective",
+        "width": 1536,
+        "height": 2048,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 canon powershot tx1 2048 1247 perspective 2.5383": {
+        "projection_type": "perspective",
+        "width": 2048,
+        "height": 1247,
+        "focal": 2.5383155230596177,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 1280 960 perspective 0": {
+        "projection_type": "perspective",
+        "width": 1280,
+        "height": 960,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 2048 958 perspective 0": {
+        "projection_type": "perspective",
+        "width": 2048,
+        "height": 958,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 5120 3397 perspective 0": {
+        "projection_type": "perspective",
+        "width": 5120,
+        "height": 3397,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 canon eos 550d 2613 1247 perspective 2.4165": {
+        "projection_type": "perspective",
+        "width": 2613,
+        "height": 1247,
+        "focal": 2.4165807889119377,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 1080 810 perspective 0": {
+        "projection_type": "perspective",
+        "width": 1080,
+        "height": 810,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    },
+    "v2 unknown unknown 1080 1080 perspective 0": {
+        "projection_type": "perspective",
+        "width": 1080,
+        "height": 1080,
+        "focal": 0.85,
+        "k1": 0.0,
+        "k2": 0.0
+    }
+}

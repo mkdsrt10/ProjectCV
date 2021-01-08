@@ -1,0 +1,12 @@
+{
+    "make": "Canon",
+    "model": "EF100-400mm f/4.5-5.6L IS USM",
+    "width": 5346,
+    "height": 3471,
+    "projection_type": "perspective",
+    "focal_ratio": 4.482535378631654,
+    "orientation": 1,
+    "capture_time": 1511001242.0,
+    "gps": {},
+    "camera": "v2 canon ef100-400mm f/4.5-5.6l is usm 5346 3471 perspective 4.4825"
+}

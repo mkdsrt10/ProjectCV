@@ -1,0 +1,12 @@
+{
+    "make": "Panasonic",
+    "model": "DMC-LX7",
+    "width": 1199,
+    "height": 800,
+    "projection_type": "perspective",
+    "focal_ratio": 0.6666666666666666,
+    "orientation": 1,
+    "capture_time": 1576168311.0,
+    "gps": {},
+    "camera": "v2 panasonic dmc-lx7 1199 800 perspective 0.6666"
+}

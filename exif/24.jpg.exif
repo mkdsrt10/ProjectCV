@@ -1,0 +1,12 @@
+{
+    "make": "Canon",
+    "model": "Canon EOS 550D",
+    "width": 2613,
+    "height": 1247,
+    "projection_type": "perspective",
+    "focal_ratio": 2.4165807889119377,
+    "orientation": 1,
+    "capture_time": 1424513664.87,
+    "gps": {},
+    "camera": "v2 canon eos 550d 2613 1247 perspective 2.4165"
+}
